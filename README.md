@@ -3,9 +3,6 @@ This repository contains scaffolding to get started creating a Web3 Application 
 
 ## Install
 Clone the repository
-```bash
-git clone git@github.com:robertsimoes/web3-react-scaffold.git your-dapp
-```
 
 Install dependencies
 ```bash
